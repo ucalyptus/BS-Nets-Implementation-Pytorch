@@ -4,3 +4,5 @@
 
 BS-Nets: An End-to-End Framework For Band Selection of Hyperspectral Image
 * [Read the paper here](https://arxiv.org/pdf/1904.08269v1.pdf)
+
+## Please :star: the [Repo](https://github.com/ucalyptus/BS-Nets-Implementation-Pytorch) if you liked it.
