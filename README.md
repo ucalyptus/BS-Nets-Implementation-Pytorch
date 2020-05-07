@@ -12,4 +12,5 @@
 ![](https://github.com/ucalyptus/BS-Nets-Implementation-Pytorch/blob/e50a34df2cc45d08979383a29d6c41535a965453/assets/top15bands-entropy-all-BS-Indian-page-001.jpg)
 ![](https://github.com/ucalyptus/BS-Nets-Implementation-Pytorch/blob/e50a34df2cc45d08979383a29d6c41535a965453/assets/architecture-MLP-page-001.jpg)
 ![](https://github.com/ucalyptus/BS-Nets-Implementation-Pytorch/blob/e50a34df2cc45d08979383a29d6c41535a965453/assets/loss-acc-Indian-5band-100epoch-L10-01-best-page-001.jpg)
+![](assets/carbon.svg)
 ![](assets/carbon.jpg)
