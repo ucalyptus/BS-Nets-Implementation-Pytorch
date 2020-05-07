@@ -1,0 +1,6 @@
+torch==1.5.0
+scikit-learn==0.22.2
+numpy==1.18.1
+spectral
+torchsummary
+torchvision==0.5.1
