@@ -4,7 +4,7 @@
 
 
 # Usage
-`conda activate bsnets`
-`pip install -r requirements.txt`
+- `conda activate bsnets`
+- `pip install -r requirements.txt`
 
 
