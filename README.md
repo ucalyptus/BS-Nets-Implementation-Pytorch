@@ -3,9 +3,15 @@
 # BS-Nets-Implementation-Pytorch [![HitCount](http://hits.dwyl.io/ucalyptus/BS-Nets-Implementation-Pytorch.svg)](http://hits.dwyl.io/ucalyptus/BS-Nets-Implementation-Pytorch)
 
 
-# Usage
+# Setup
 - `conda activate bsnets`
 - `pip install -r requirements.txt`
+
+# SSRN Classification
+`cd SSRN/
+ python indian.py
+`
+
 # Plots
 ![](assets/CNN-page-001.png)
 ![](assets/architecture-Conv-page-001.jpg)
