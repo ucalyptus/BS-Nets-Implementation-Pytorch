@@ -8,9 +8,9 @@
 - `pip install -r requirements.txt`
 
 # SSRN Classification
-`cd SSRN/
- python indian.py
-`
+`cd SSRN/`
+`python indian.py`
+
 
 # Plots
 ![](assets/CNN-page-001.png)
