@@ -10,7 +10,7 @@ import torch.utils.data as Data
 
 import ast
 import os
-mydir = "/content/Double-Branch-Dual-Attention-Mechanism-Network/SSRN/"
+mydir = "/content/BS-Nets-Implementation-Pytorch/SSRN/"
 for file in os.listdir(mydir):
     if file.endswith(".txt"):
         pass
