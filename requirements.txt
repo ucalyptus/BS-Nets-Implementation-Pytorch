@@ -1,5 +1,5 @@
 torch==1.5.0
-scikit-learn==0.22.2
+scikit-learn==1.5.0
 numpy==1.18.1
 spectral
 torchsummary
